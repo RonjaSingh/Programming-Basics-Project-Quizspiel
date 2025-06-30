@@ -21,12 +21,37 @@ const fragen = {
       antwort: "C"
     },
     {
-  frage: "❓ Wer war der berühmte Feldherr, der das Römische Reich stark erweiterte und später ermordet wurde?",
-  optionen: ["A) Augustus", "B) Nero", "C) Julius Caesar", "D) Trajan"],
-  antwort: "C"
-}
+      frage: "❓ Wer war der berühmte Feldherr, der das Römische Reich stark erweiterte und später ermordet wurde?",
+      optionen: ["A) Augustus", "B) Nero", "C) Julius Caesar", "D) Trajan"],
+      antwort: "C"
+    },
+    {
+      frage: "Wann fiel die Berliner Mauer?",
+      optionen: ["A) 1985", "B) 1987", "C) 1989", "D) 1991"],
+      antwort: "C"
+    },
+    {
+      frage: "Wer war der erste US-Präsident?",
+      optionen: ["A) Abraham Lincoln", "B) George Washington", "C) Thomas Jefferson", "D) John Adams"],
+      antwort: "B"
+    },
+    {
+      frage: "Welche Stadt war früher Hauptstadt des Römischen Reichs?",
+      optionen: ["A) Athen", "B) Rom", "C) Karthago", "D) Alexandria"],
+      antwort: "B"
+    },
+    {
+      frage: "Wie lange dauerte der Dreißigjährige Krieg?",
+      optionen: ["A) 10 Jahre", "B) 20 Jahre", "C) 30 Jahre", "D) 40 Jahre"],
+      antwort: "C"
+    },
+    {
+      frage: "Wer war Kanzler Deutschlands nach dem Zweiten Weltkrieg?",
+      optionen: ["A) Willy Brandt", "B) Konrad Adenauer", "C) Ludwig Erhard", "D) Helmut Schmidt"],
+      antwort: "B"
+    }
   ],
-      Mathematik: [
+  Mathematik: [
     {
       frage: "❓ Was ist das Ergebnis von 7 x 8?",
       optionen: ["A) 54", "B) 56", "C) 64", "D) 58"],
@@ -51,9 +76,34 @@ const fragen = {
       frage: "❓ Was ist 10 hoch 3?",
       optionen: ["A) 100", "B) 300", "C) 1000", "D) 10.000"],
       antwort: "C"
+    },
+    {
+      frage: "Was ist das Ergebnis von 7 × 8?",
+      optionen: ["A) 54", "B) 56", "C) 58", "D) 60"],
+      antwort: "B"
+    },
+    {
+      frage: "Wie viele Ecken hat ein Würfel?",
+      optionen: ["A) 6", "B) 8", "C) 12", "D) 10"],
+      antwort: "B"
+    },
+    {
+      frage: "Was ist die Quadratwurzel von 144?",
+      optionen: ["A) 10", "B) 11", "C) 12", "D) 13"],
+      antwort: "C"
+    },
+    {
+      frage: "Wie lautet die Formel für den Flächeninhalt eines Kreises?",
+      optionen: ["A) π × r²", "B) 2πr", "C) r²", "D) πr"],
+      antwort: "A"
+    },
+    {
+      frage: "Was ergibt 3³?",
+      optionen: ["A) 6", "B) 9", "C) 27", "D) 81"],
+      antwort: "C"
     }
   ],
-   Geographie: [
+  Geographie: [
     {
       frage: "❓ Was ist die Hauptstadt von Kanada?",
       optionen: ["A) Toronto", "B) Vancouver", "C) Ottawa", "D) Montreal"],
@@ -78,7 +128,33 @@ const fragen = {
       frage: "❓ In welchem Land liegt die Stadt Osaka?",
       optionen: ["A) China", "B) Südkorea", "C) Thailand", "D) Japan"],
       antwort: "D"
+    },
+    {
+      frage: "Welcher Fluss ist der längste der Welt?",
+      optionen: ["A) Amazonas", "B) Nil", "C) Mississippi", "D) Yangtze"],
+      antwort: "B"
+    },
+    {
+      frage: "Wie heißt die Hauptstadt von Australien?",
+      optionen: ["A) Sydney", "B) Melbourne", "C) Canberra", "D) Perth"],
+      antwort: "C"
+    },
+    {
+      frage: "Welcher Kontinent ist der größte?",
+      optionen: ["A) Afrika", "B) Asien", "C) Europa", "D) Nordamerika"],
+      antwort: "B"
+    },
+    {
+      frage: "Welche Wüste ist die größte der Welt?",
+      optionen: ["A) Sahara", "B) Gobi", "C) Antarktis", "D) Kalahari"],
+      antwort: "C"
+    },
+    {
+      frage: "Welches Land hat die meisten Nachbarländer?",
+      optionen: ["A) Russland", "B) China", "C) Brasilien", "D) Deutschland"],
+      antwort: "B"
     }
+
   ]
 };
 
