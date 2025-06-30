@@ -30,7 +30,7 @@ Für jede richtige Antwort gibt es einen Punkt, der Spieler mit den meisten Punk
 
 
 ### Installation:
-- git clone https://github.com/dein-benutzername/quizspiel.git
+- git clone https://github.com/RonjaSingh/Programming-Basics-Project-Quizspiel.git
 - cd quizspiel
 - npm install readline-sync
 - sicherstellen, dass questions.js im gleichen Verzeichnis liegt
